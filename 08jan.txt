@@ -1,0 +1,5 @@
+Diário 08/jan
+
+- Revisamos o TOP 9 problemas no Pousadaria
+- Aprendi que preciso sempre rodar o bin/setup de tempos em tempos
+- Aprendi também que existe uma GEm chamada SimpleCov
