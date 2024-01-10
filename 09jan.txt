@@ -1,0 +1,3 @@
+Diário 09/janeiro
+
+Aprendi que existe uma gem que 'fiscaliza' meu código: Rubocop
